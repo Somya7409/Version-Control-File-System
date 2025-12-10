@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Time Travelling File System - README</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.55;">
 
